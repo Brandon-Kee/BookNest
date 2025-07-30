@@ -1,6 +1,8 @@
 # 📚 BookNest
 
-BookNest  
+BookNest is an AI-powered book recommendation app that uses zero-shot classification and semantic search to suggest books based on user-described themes, genre preferences, and emotional tone. Built with the power of **LangChain**, **OpenAI embeddings**, and **Gradio**, BookNest helps users discover their next favorite read in a deeply personalized way.
+
+--- 
   
 ## Demo
  
