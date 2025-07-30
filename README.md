@@ -10,7 +10,7 @@ BookNest is an AI-powered book recommendation app that uses zero-shot classifica
 - **Genre Customization:** Users can filter results by genre or category.
 - **Gradio Interface:** Clean and interactive front-end for seamless user experience.
 
----
+--- 
 
 ## 🛠️ Technologies Used
 
