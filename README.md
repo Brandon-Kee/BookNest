@@ -22,12 +22,20 @@ BookNest is an AI-powered book recommendation app that uses zero-shot classifica
 - **Gradio** 
 
 ---
+
 ## Dataset
 The app uses a custom CSV dataset that was transformed from the [7k Books](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata) dataset on Kaggle to contain:
 - Book metadata (title, authors, ISBN, description, etc.)
 - Pre-tagged emotion scores (`joy`, `sadness`, `anger`, etc.)
 - Category labels (`simple_categories`)
 - Book thumbnails
+
+---
+## Process Summary:
+- Book descriptions were split into individual sentences.
+- Each sentence was classified across 7 emotional dimensions using the [emotion-english-distilroberta-base](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) transformer model.
+- The **maximum score per emotion** across all sentences was computed for each book.
+- Emotional scores were stored alongside each book’s metadata for downstream filtering.
 ---
 
 ## How It Works
