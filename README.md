@@ -37,6 +37,10 @@ The app uses a custom CSV dataset that was transformed from the [7k Books](https
 3. **Search:** The system performs a semantic similarity search on book descriptions using vector embeddings.
 4. **Results:** The top matching books are returned and displayed with cover images and short summaries.
 
+## User Guide
+
+1. Add your OpenAI API key to the `.env` file.
+2. 
 ---
 ## Demo
  
