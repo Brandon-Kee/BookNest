@@ -54,8 +54,7 @@ https://github.com/user-attachments/assets/ac510532-bc21-4eb9-980c-ee4fb6ffae83
 
 ### Search with the 'non-fiction' and 'sad' filters applied:
 https://github.com/user-attachments/assets/d0965485-9f3f-42ef-8c3c-a56807d7aae5
----
-## References
+
 ## 📎 References
 
 - [Dataset: 7K Books with Metadata – Kaggle](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata)
