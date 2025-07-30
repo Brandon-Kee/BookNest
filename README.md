@@ -40,11 +40,12 @@ The app uses a custom CSV dataset that was transformed from the [7k Books](https
 ## User Guide
 
 1. Add your OpenAI API key to the `.env` file.
-2. 
+2. Run `dashboard.py`.
+3. Click on the `localhost` link that appears in the terminal to access the app.
+4. Start getting personalized book recommendations! 
 ---
 ## Demo
  
-
 ### Search with no filters applied:
 https://github.com/user-attachments/assets/a9682e98-bbf7-49c7-a6fe-2b9b3f95c7b7
 
