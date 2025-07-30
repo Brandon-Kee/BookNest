@@ -3,7 +3,26 @@
 BookNest is an AI-powered book recommendation app that uses zero-shot classification and semantic search to suggest books based on user-described themes, genre preferences, and emotional tone. Built with the power of **LangChain**, **OpenAI embeddings**, and **Gradio**, BookNest helps users discover their next favorite read in a deeply personalized way.
 
 --- 
-  
+## Features
+
+- **Semantic Search:** Uses language embeddings to find books closely related to a user's natural language description.
+- **Emotion-aware Filtering:** Prioritizes books based on desired emotional tone (e.g., joyful, suspenseful, sad).
+- **Genre Customization:** Users can filter results by genre or category.
+- **Gradio Interface:** Clean and interactive front-end for seamless user experience.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python**
+- **LangChain** (`langchain`, `langchain_community`)
+- **OpenAI Embeddings**
+- **ChromaDB**
+- **Pandas** & **NumPy**
+- **Gradio** 
+
+---
+
 ## Demo
  
 
