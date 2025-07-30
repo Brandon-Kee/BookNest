@@ -1,6 +1,6 @@
 # 📚 BookNest
 
-BookNest is
+BookNest
 
 ## Demo
 
